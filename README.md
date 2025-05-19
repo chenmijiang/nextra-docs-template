@@ -10,9 +10,9 @@
 
 This is a template for creating documentation with [Nextra](https://nextra.site) and [Tailwind CSS](https://tailwindcss.com).
 
-[**Live Demo →**](https://nextra-docs-template.vercel.app)
+[**Live Demo →**](https://nextra-docs-template-smoky-seven.vercel.app)
 
-[![](.github/screenshot.png)](https://nextra-docs-template.vercel.app)
+[![](.github/screenshot.png)](https://nextra-docs-template-smoky-seven.vercel.app)
 
 ## Features
 
