@@ -6,10 +6,10 @@ export default {
     title: 'About',
     type: 'page',
   },
-  // contact: {
-  //   title: 'Contact',
-  //   type: 'page',
-  //   href: 'https://twitter.com/shuding_',
-  //   // newWindow: true, // This option has been removed in Nextra 4
-  // },
+  contact: {
+    title: 'Contact',
+    type: 'page',
+    href: 'https://twitter.com/shuding_',
+    // newWindow: true, // This option has been removed in Nextra 4
+  },
 };
